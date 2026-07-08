@@ -9,3 +9,5 @@ task 102
 System.out.println("task 102 completed...");
 
 Vishal --> String a = "There it is....";
+
+Nitin --> int a = 20;

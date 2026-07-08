@@ -12,4 +12,8 @@ Vishal --> String a = "There it is....";
 
 Nitin --> int a = 20;
 
+<<<<<<< HEAD
 char a ='d';
+=======
+Sharan --> const b = 200;;
+>>>>>>> refs/remotes/origin/main

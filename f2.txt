@@ -17,6 +17,9 @@ char a ='d';
 
 Sharan --> const b = 200;;
 
+int a = 10;
+int b = 20;
+
 ==========================
 
 task 202
